@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4e794676456e604b8e38dc4919646ee, type: 3}
+  m_Name: AninoSlotsGameDataset
+  m_EditorClassIdentifier: 
+  SlotSymbolsList:
+  - {fileID: 2106453276989930720, guid: ef98ef17c92ea0945b5bf1f99cf42143, type: 3}
+  - {fileID: 632934838237661041, guid: e6342deb2087a2241895c42e74bddf2f, type: 3}
+  - {fileID: 6998402244719804732, guid: e004ff97e611d67419f326036446a303, type: 3}
+  - {fileID: 8964080341510320720, guid: febafd0456a9bad4494a26b1101aa22f, type: 3}
+  - {fileID: 84875242351817311, guid: 5d4e7795a9ce91346b4b98ead18d04bd, type: 3}
+  - {fileID: 3819623870581831374, guid: 9ed32f95eb7b50e4fb4ca7ef3a47a0a9, type: 3}
+  - {fileID: 4955042948523880971, guid: 2072194c3bc690b41bd77748f8825266, type: 3}
+  - {fileID: 998939336897380890, guid: c6b7c674e5beb5244ab8b67c2a2bc891, type: 3}
+  LineSetup:
+  - {fileID: 11400000, guid: d30f43f55f6debb4791e81764c778b28, type: 2}
+  - {fileID: 11400000, guid: c592b5d1c02c54c45b3f135c0a6e38ca, type: 2}
+  - {fileID: 11400000, guid: 49c28f216bef25b479c933f55e4dab14, type: 2}
+  - {fileID: 11400000, guid: 7e59d61ed64c5e04abbc9689a6c9eed3, type: 2}
+  - {fileID: 11400000, guid: 240ef69833ae5374eb5eed9b4116e993, type: 2}
+  SlotRows: 3
+  SlotColumns: 26
+  SlotMachineName: Adventure Slots
+  PARSHEET: {fileID: 11400000, guid: 6169d198d1bada141962fc4c0c8ebe3c, type: 2}
